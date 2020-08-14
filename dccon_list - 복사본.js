@@ -2,7 +2,6 @@
 	{name:"소닉링없찐.gif", 	keywords:["링없찐"], 		tags:["소닉", "소닉매니아"]},
 	{name:"소닉결혼반지.png",	keywords:["결혼반지"],		tags:["소닉", "소닉매니아"]},
 	{name:"겉바속촉.gif",	keywords:["겉바속촉", "가로쉬"],	tags:["와우", "헬스크림"]},
-
 	{name:"놀자곰가자.gif",	keywords:["놀자곰가자", "나곰가자"],	tags:["놀자곰","나곰","가자"]},
 	{name:"놀자곰개굴.gif",	keywords:["놀자곰개굴", "나곰개굴","놀자곰눈물", "나곰눈물"],	tags:["놀자곰","나곰","ㅠㅠ"]},
 	{name:"놀자곰깜짝.gif",	keywords:["놀자곰깜짝", "나곰깜짝"],	tags:["놀자곰","나곰","놀람","경악"]},
@@ -22,13 +21,11 @@
 	{name:"놀자곰차단.gif",	keywords:["놀자곰차단", "나곰차단"],	tags:["놀자곰","나곰","차단"]},
 	{name:"놀자곰카트.gif",	keywords:["놀자곰카트", "나곰카트"],	tags:["놀자곰","나곰",""]},
 	{name:"놀자곰포탈.gif",	keywords:["놀자곰포탈", "나곰포탈"],	tags:["놀자곰","나곰","인사"]},
-
 	{name:"댕댕당당.gif",	keywords:["댕댕당당"],		tags:["고양이"]},
 	{name:"댕댕댄스.gif",	keywords:["댕댕댄스"],		tags:["고양이", "춤"]},
 	{name:"댕댕박수.gif",	keywords:["댕댕박수"],		tags:["고양이", "뽁"]},
 	{name:"댕댕뿡.gif",		keywords:["댕댕뿡"],		tags:["고양이", "방구", "방귀"]},
 	{name:"댕댕웃어.gif",	keywords:["댕댕웃어"],		tags:["고양이", "꼬마찌", "생쥐"]},
-
 	{name:"메밀경악.gif",	keywords:["메밀경악"],		tags:[""]},
 	{name:"메밀눈물.gif",	keywords:["메밀눈물"],		tags:["ㅠㅠ"]},
 	{name:"메밀댄스.gif",	keywords:["메밀댄스"],		tags:["댕댕", "춤"]},
@@ -38,35 +35,29 @@
 	{name:"메밀머엉.gif",	keywords:["메밀머엉","메밀멍"],	tags:["댕댕","멍"]},
 	{name:"메밀밥.gif",		keywords:["메밀밥","메밀밥밥"],	tags:["식사"]},
 	{name:"메밀부자.gif",	keywords:["메밀부자"],		tags:["돈","수금"]},
-
 	{name:"메밀아잉.gif",	keywords:["메밀아잉"],		tags:[""]},
 	{name:"메밀원통.gif",	keywords:["메밀원통"],		tags:["ㅠㅠ"]},
 	{name:"메밀잘자.gif",	keywords:["메밀잘자"],		tags:["댕댕","쿨쿨"]},
 	{name:"메밀절레.gif",	keywords:["메밀절레"],		tags:["댕댕"]},
 	{name:"메밀제발.gif",	keywords:["메밀제발"],		tags:["댕댕"]},
-	{name:"메밀쥬금.gif",	keywords:["메또죽","메밀쥬금"],	tags:["댕댕","죽음","사망"]},
+	{name:"메밀쥬금.gif",	keywords:["메또죽","메밀쥬금"],	tags:["댕댕","죽음","사망",]},
 	{name:"메밀천사.gif",	keywords:["메밀천사"],		tags:["die"]},
 	{name:"메밀ㅋㅋ.gif",	keywords:["메밀ㅋㅋ"],		tags:["웃음","크크"]},
 	{name:"메바.png",		keywords:["메바"],			tags:["메밀","인사"]},
-
 	{name:"여우우농담.gif",	keywords:["여우우농담"],		tags:["여우우"]},
 	{name:"여우우예쁜말.gif",	keywords:["여우우예쁜말"],		tags:["여우우","고운말"]},
 	{name:"여우우으음.gif",	keywords:["여우우으음","여우우잘모름"],tags:["여우우","잘모르겠네요"]},
 	{name:"여우우정보.gif",	keywords:["여우우정보"],		tags:["여우우","좋은정보감사"]},
-
 	{name:"유령댄스.gif",	keywords:["유령댄스"],		tags:["유령","춤"]},
 	{name:"유령따란.gif",	keywords:["유령따란"],		tags:["유령","등장"]},
 	{name:"유령똑똑.gif",	keywords:["유령똑똑"],		tags:["유령","으쓱","똑똑","안경"]},
 	{name:"유령물음표.gif",	keywords:["유령??","유령물음표"],	tags:["유령","??","물음표"]},
 	{name:"유령안녕.gif",	keywords:["유령안녕"],		tags:["유령","인사"]},
-
-	{name:"링핏가운.gif",	keywords:["가운","가벼운운동"],	tags:["링피트","운동"]},
-	{name:"링핏몹가운.gif",	keywords:["몹가운","몹시가벼운운동"],	tags:["링피트","운동"]},
-	{name:"링핏적운.gif",	keywords:["적운","적당한운동"],	tags:["링피트","운동"]},
+	{name:"링핏가운.png",	keywords:["가운","가벼운운동"],	tags:["링피트","운동"]},
+	{name:"링핏몹가운.png",	keywords:["몹가운","몹시가벼운운동"],	tags:["링피트","운동"]},
+	{name:"링핏적운.png",	keywords:["적운","적당한운동"],	tags:["링피트","운동"]},
 	{name:"링핏빅토리.gif",	keywords:["빅토리"],		tags:["링피트","운동"]},
-	{name:"링핏빅볶음.gif",	keywords:["빅볶음"],		tags:["링피트","운동"]},
-
-
+	{name:"링핏빅볶음.png",	keywords:["빅볶음"],		tags:["링피트","운동"]},
 	{name:"펀쿨끄덕.gif",	keywords:["펀쿨끄덕"],		tags:["펀쿨섹","끄덕"]},
 
 ];
