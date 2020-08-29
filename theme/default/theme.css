@@ -25,7 +25,7 @@ body
 /*img.twitch_emote	{	max-height:28px; }*/
 
 img.twitch_emote	{height: 25%; width: auto; max-height:28px; }
-img.dccon	{	max-height:120px; }
+img.dccon	{	height:171px; }
 
 
 /* 구독자 및 후원 메세지 설정 */
@@ -70,7 +70,7 @@ img.dccon	{	max-height:120px; }
 
 /* 폰트 설정 */
 html								{	font-family:'cwtexyen', 'Jeju Gothic', serif;
-											font-size:20px; color:rgba(50,50,50,1) ; font-weight: initial;
+											font-size:22px; color:rgba(50,50,50,1) ; font-weight: initial;
 									/*		text-shadow:
 						-1px -1px 1px white, -1px   0 1px white,
 						-1px  1px 1px white,    0 1px 1px white,
@@ -111,7 +111,7 @@ html								{	font-family:'cwtexyen', 'Jeju Gothic', serif;
 .chat_lower_box			{ clear:right; }
 
 .chat_msg_box							{	white-space:pre-line; word-break:break-word;
-														max-height:120px; padding:0 0 5px 0; }
+														max-height:165px; padding:0 0 5px 0; }
 /* .chat_msg_box.image_only	{	text-align:center; }*/
 .chat_msg_box.image_only	{	text-align:center; }
 
